@@ -1,0 +1,57 @@
+  12:06:21 PM: Attempting to connect to printer
+  12:06:21 PM: Connection opened
+< 12:06:22 PM: start
+< 12:06:22 PM: echo: External Reset
+< 12:06:22 PM: Marlin 1.1.0-RC8
+< 12:06:22 PM: echo: Last Updated: 2016-12-06 12:00 | Author: (none, default config)
+< 12:06:22 PM: Compiled: Sep  9 2017
+< 12:06:22 PM: echo: Free Memory: 3810  PlannerBufferBytes: 1168
+< 12:06:22 PM: echo:Hardcoded Default Settings Loaded
+< 12:06:22 PM: echo:Steps per unit:
+< 12:06:22 PM: echo:  M92 X100.00 Y100.00 Z400.00 E150.00
+< 12:06:22 PM: echo:Maximum feedrates (mm/s):
+< 12:06:22 PM: echo:  M203 X500.00 Y500.00 Z5.00 E25.00
+< 12:06:22 PM: echo:Maximum Acceleration (mm/s2):
+< 12:06:22 PM: echo:  M201 X9000 Y9000 Z50 E10000
+< 12:06:22 PM: echo:Accelerations: P=printing, R=retract and T=travel
+< 12:06:22 PM: echo:  M204 P3000.00 R3000.00 T3000.00
+< 12:06:22 PM: echo:Advanced variables: S=Min feedrate (mm/s), T=Min travel feedrate (mm/s), B=minimum segment time (ms), X=maximum XY jerk (mm/s),  Z=maximum Z jerk (mm/s),  E=maximum E jerk (mm/s)
+< 12:06:22 PM: echo:  M205 S0.00 T0.00 B20000 X20.00 Y20.00 Z0.40 E5.00
+< 12:06:22 PM: echo:Home offset (mm)
+< 12:06:22 PM: echo:  M206 X0.00 Y0.00 Z0.00
+< 12:06:22 PM: echo:Material heatup parameters:
+< 12:06:22 PM: echo:  M145 S0 H180 B70 F0
+< 12:06:22 PM:   M145 S1 H240 B110 F0
+< 12:06:22 PM: echo:PID settings:
+< 12:06:22 PM: echo:  M301 P22.20 I1.08 D114.00
+< 12:06:22 PM: echo:Filament settings: Disabled
+< 12:06:22 PM: echo:  M200 D3.00
+< 12:06:22 PM: echo:  M200 D0
+< 12:06:27 PM: echo:SD init fail
+< 12:06:27 PM: FIRMWARE_NAME:Marlin 1.1.0-RC8 (Github) SOURCE_CODE_URL:https://github.com/RobAltenburg/Marlin PROTOCOL_VERSION:1.0 MACHINE_TYPE:flsun i3 EXTRUDER_COUNT:1 UUID:cede2a2f-41a2-4748-9b12-c55c62f367ff
+< 12:06:27 PM: echo:DEBUG:INFO,ERRORS
+< 12:06:27 PM: echo:DEBUG:INFO,ERRORS,DRYRUN
+  12:11:39 PM: Printjob finished at Sep 30, 2017, 12:11:39 PM PDT
+  12:11:39 PM: Printing time: 00s
+  12:11:39 PM: lines send: 1
+< 12:11:39 PM: echo:Hardcoded Default Settings Loaded
+< 12:11:39 PM: echo:Steps per unit:
+< 12:11:39 PM: echo:  M92 X100.00 Y100.00 Z400.00 E150.00
+< 12:11:39 PM: echo:Maximum feedrates (mm/s):
+< 12:11:39 PM: echo:  M203 X500.00 Y500.00 Z5.00 E25.00
+< 12:11:39 PM: echo:Maximum Acceleration (mm/s2):
+< 12:11:39 PM: echo:  M201 X9000 Y9000 Z50 E10000
+< 12:11:39 PM: echo:Accelerations: P=printing, R=retract and T=travel
+< 12:11:39 PM: echo:  M204 P3000.00 R3000.00 T3000.00
+< 12:11:39 PM: echo:Advanced variables: S=Min feedrate (mm/s), T=Min travel feedrate (mm/s), B=minimum segment time (ms), X=maximum XY jerk (mm/s),  Z=maximum Z jerk (mm/s),  E=maximum E jerk (mm/s)
+< 12:11:39 PM: echo:  M205 S0.00 T0.00 B20000 X20.00 Y20.00 Z0.40 E5.00
+< 12:11:39 PM: echo:Home offset (mm)
+< 12:11:39 PM: echo:  M206 X0.00 Y0.00 Z0.00
+< 12:11:39 PM: echo:Material heatup parameters:
+< 12:11:39 PM: echo:  M145 S0 H180 B70 F0
+< 12:11:39 PM:   M145 S1 H240 B110 F0
+< 12:11:39 PM: echo:PID settings:
+< 12:11:39 PM: echo:  M301 P22.20 I1.08 D114.00
+< 12:11:39 PM: echo:Filament settings: Disabled
+< 12:11:39 PM: echo:  M200 D3.00
+< 12:11:39 PM: echo:  M200 D0
